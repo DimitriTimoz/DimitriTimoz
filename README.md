@@ -1,16 +1,21 @@
-### Hi there 👋
+# 👋 Hi there, I'm Dimitri Timoz!
 
-<!--
-**DimitriTimoz/DimitriTimoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://komarev.com/ghpvc/?username=DimitriTimoz&color=brightgreen)
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 I'm currently a Computer Engineering student
+- 💻 My favorite subjects are Artificial Intelligence and Computer Science
+- 🔍 I'm particularly interested in Rust programming
+- 🏫 I aim to become an expert in my field and start my own tech company
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Skills
+- **Languages**: Rust, Python, C++, JavaScript, C#
+- **Tools**: Git, Docker...
+- **Databases**: PostgreSQL, SQLite
+
+## 🌱 Currently Learning
+- Advanced Rust Programming
+- Machine Learning and AI
+
+## 📈 GitHub Stats
+![Dimitri's GitHub stats](https://github-readme-stats.vercel.app/api?username=DimitriTimoz&show_icons=true&theme=radical)
