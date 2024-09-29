@@ -6,7 +6,7 @@
 - 🎓 I'm currently a Computer Engineering student
 - 💻 My favorite subjects are Artificial Intelligence and Computer Science
 - 🔍 I'm particularly interested in Rust programming
-- 🏫 I aim to become an expert in my field and start my own tech company
+- 🏫 I aim to become an expert in my field
 
 ## 🌟 Skills
 - **Languages**: Rust, Python, C++, JavaScript, C#
