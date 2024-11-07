@@ -5,8 +5,7 @@
 ## 🚀 About Me
 - 🎓 I'm currently a Computer Engineering student
 - 💻 My favorite subjects are Artificial Intelligence and Computer Science
-- 🔍 I'm particularly interested in Rust programming
-- 🏫 I aim to become an expert in my field
+- 🔍 I'm particularly interested in Rust programming and Machine Learning
 
 ## 🌟 Skills
 - **Languages**: Rust, Python, C++, JavaScript, C#
@@ -15,7 +14,7 @@
 
 ## 🌱 Currently Learning
 - Advanced Rust Programming
-- Machine Learning and AI
+- Machine Learning and Deep Learning
 
 ## 📈 GitHub Stats
 ![Dimitri's GitHub stats](https://github-readme-stats.vercel.app/api?username=DimitriTimoz&show_icons=true&theme=radical)
