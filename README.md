@@ -1,5 +1,6 @@
 # 👋 Hi there, I'm Dimitri Timoz!
 
+[![wakatime](https://wakatime.com/badge/user/d6449f79-a7f5-4cd0-bdcc-8e1e4f75193e.svg)](https://wakatime.com/@d6449f79-a7f5-4cd0-bdcc-8e1e4f75193e)
 ![Profile views](https://komarev.com/ghpvc/?username=DimitriTimoz&color=brightgreen)
 
 ## 🚀 About Me
