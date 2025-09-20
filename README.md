@@ -4,10 +4,9 @@
 ![Profile views](https://komarev.com/ghpvc/?username=DimitriTimoz&color=brightgreen)
 
 ## 🚀 About Me
-- 🎓 I'm currently a Computer Engineering student
-- 💻 My favorite subjects are Artificial Intelligence and Computer Science
-- 🔍 I'm particularly interested in Rust programming and Machine Learning
-
+- I'm currently a Computer Engineering student passionate about Machine Learning and Rust.
+- You can reach me out at dimitri.timoz@protonmail.com
+- My resume is accessible at [timoz.fr/en](https://timoz.fr/en)
 ## 🌟 Skills
 - **Languages**: Rust, Python, C++, JavaScript, C#
 - **Tools**: Git, Docker...
